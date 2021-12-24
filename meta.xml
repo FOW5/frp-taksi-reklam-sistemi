@@ -1,0 +1,5 @@
+<meta>
+	<info author="fow" type="script" name="FRP Taksi Reklam Sistemi" />
+	<script src="c_frp_taksireklam.lua" type="client" cache="false" />
+	<script src="s_frp_taksireklam.lua" type="server" />
+</meta>
